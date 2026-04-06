@@ -32,9 +32,9 @@ ClassMyte works differently:
 
 ## 📸 Screenshots
 
-<img src="screenshots/dashboard.png" width="250"/>  
-<img src="screenshots/sms.png" width="250"/>  
-<img src="screenshots/contacts.png" width="250"/>  
+<img src="screenshots/dashboard.jpeg" width="250"/>  
+<img src="screenshots/sms.jpeg" width="250"/>  
+<img src="screenshots/contacts.jpeg" width="250"/>  
 
 ---
 
