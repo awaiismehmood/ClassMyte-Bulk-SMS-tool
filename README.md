@@ -86,3 +86,7 @@ Advanced messaging features
 👨‍💻 About
 
 ClassMyte is built to make bulk SMS simple, affordable, and accessible — especially for users who want to avoid expensive SMS APIs.
+
+💡 Pro Tip
+
+Use SMS bundles/packages instead of balance for best results — this makes bulk messaging extremely cheap.
