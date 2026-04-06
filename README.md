@@ -32,11 +32,12 @@ ClassMyte works differently:
 
 ## 📸 Screenshots
 
-<img src="screenshots/dashboard.jpeg" width="250"/>  
-<img src="screenshots/sms.jpeg" width="250"/>  
-<img src="screenshots/contacts.jpeg" width="250"/>  
-
----
+<p align="center">
+  <img src="screenshots/dashboard.jpeg" width="220"/>
+  <img src="screenshots/sms1.jpeg" width="220"/>
+  <img src="screenshots/sms2.jpeg" width="220"/>
+  <img src="screenshots/contacts.jpeg" width="220"/>
+</p>
 
 ## 🚀 Features
 
