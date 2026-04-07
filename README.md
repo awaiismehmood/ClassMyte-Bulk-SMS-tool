@@ -14,7 +14,7 @@
 ## 📥 Download
 
 <p align="center">
-  <a href="https://github.com/awaiismehmood/ClassMyte-Bulk-SMS-tool/releases/tag/v1.0.0">
+  <a href="https://github.com/awaiismehmood/ClassMyte-Bulk-SMS-tool/releases/latest/download/SmsApp.apk">
     <img src="https://img.shields.io/badge/Download-Latest_APK-blue?style=for-the-badge&logo=android"/>
   </a>
 </p>
